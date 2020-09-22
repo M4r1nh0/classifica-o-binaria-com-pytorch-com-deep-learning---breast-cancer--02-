@@ -1,3 +1,3 @@
-# projeto-02
+# classificação binaria com pytorch com deep learning - breast cancer
 
-Projeto de deeplearning usando o metodo de validação cruzada
+Projeto de deeplearning
